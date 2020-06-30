@@ -1,0 +1,11 @@
+.signup {
+    font-family: 'Dancing Script', cursive;
+    font-size: 1.5rem;
+    background-color: yellow;
+    border-radius: 1.5rem;
+    border-color: yellow;
+    position: absolute;
+    top: 0.95em;
+    right: 5rem
+    
+}
